@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.0] - 2026-11-09
+### Changed
+- Name of plugin main file & repo from tucker-mcp-content-reader to tucker-mcp-content-manager. 
+- Revised authorship and description. 
+
 ## [2.1.0] - 2026-10-20
 ### Added
 - `tuc/attach-car-media` ability: attaches the Media Library images in each car's `attachment_category` term (e.g. `1001`) to the matching car post (`tucker-1001`). Dry run by default; images attached to a different post are flagged and left alone unless `reassign` is true.
