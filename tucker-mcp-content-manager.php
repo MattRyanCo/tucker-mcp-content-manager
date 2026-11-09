@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: Tucker MCP Car Content Manager
- * Description: This contains core functionality for tuckerclug.org. It should remain activated.
- * Plugin URI: https://github.com/mattryanco/tucker-mcp-car-manager
- * Version: 2.1.0
- * Author: Matt Ryan | WDS | Claude
+ * Plugin Name: Tucker MCP Content Manager
+ * Description: This plugin manages the MCP interface to the car content on tuckerclub.org.
+ * Plugin URI: https://github.com/mattryanco/tucker-mcp-content-manager
+ * Version: 3.0.0
+ * Author: Matt Ryan | Claude
  * Author URI: https://mattryan.co
- * GitHub Plugin URI: https://github.com/mattryanco/tucker-mcp-car-manager
+ * GitHub Plugin URI: https://github.com/mattryanco/tucker-mcp-content-manager
  * Primary Branch: main
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
